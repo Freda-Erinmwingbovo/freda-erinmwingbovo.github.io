@@ -1,4 +1,4 @@
-# Freda Erinmwingbovo — Data Analyst & Data Scientist Portfolio
+# Freda Erinmwingbovo Data Analyst & Data Scientist Portfolio
 
 **Live Site:** [freda-erinmwingbovo.github.io](https://freda-erinmwingbovo.github.io)
 
