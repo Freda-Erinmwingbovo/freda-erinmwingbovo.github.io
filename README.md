@@ -10,7 +10,7 @@ I'm a Data Scientist and AI Trainer based in Abuja, Nigeria, with a background i
 
 I currently work as an **AI Trainer at [10x.team](https://10x.team)**, selected from a global pool of senior professionals to evaluate AI reasoning, provide expert domain feedback, and help next-generation AI models learn how professionals think, decide, and solve real-world problems. I'm also enrolled in the **10x Team AI Academy**, building deeper expertise in AI literacy, prompt engineering, and human-AI collaboration.
 
-My portfolio spans **seven end-to-end data science projects** across healthcare, retail, banking, HR, supply chain, and SaaS product analytics — analysing over **2 million records** using Python, R, SQL, Power BI, and Excel. Every project follows a rigorous workflow: from raw data through to machine learning, visualisation, and clear business recommendations.
+My portfolio spans **seven end-to-end data science projects** across healthcare, retail, banking, HR, supply chain, and SaaS product analytics; analysing over **2 million records** using Python, R, SQL, Power BI, and Excel. Every project follows a rigorous workflow: from raw data through to machine learning, visualisation, and clear business recommendations.
 
 ---
 
